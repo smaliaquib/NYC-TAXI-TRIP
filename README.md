@@ -27,7 +27,7 @@ NYC-TAXI-TRIP is a data analysis and machine learning project focused on analyzi
 ## Related Project Materials
 
 * Links to decks:
-  * 20240315: Project pitch deck [Google Drive](https://drive.google.com/file/d/1fY0-fxMRQ4klL2MA_02qV2CJo1JX9anu/view?usp=sharing)
+  * 01/04/2025: Project pitch deck [Google Drive](https://drive.google.com/file/d/1fY0-fxMRQ4klL2MA_02qV2CJo1JX9anu/view?usp=sharing)
 
 
 ## Getting Started
